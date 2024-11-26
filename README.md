@@ -2,6 +2,8 @@
 
 Welcome to **Fruit Detective**! An interactive guessing game where players try to guess the name of a fruit based on hints provided by an AI assistant. You can enjoy the game and sharpen your fruit knowledge while having fun!
 
+You can [play the game here!](https://fruit-guessing-game.streamlit.app/)
+
 ![Webpage Screenshot](https://github.com/monikamunusamy/AI-and-Web/blob/main/images/Homepage.jpg)
 
 ## Key Features
